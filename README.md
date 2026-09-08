@@ -13,7 +13,7 @@
 
 **Front End**
 
-<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 
 **Back End**
 
@@ -21,14 +21,13 @@
 
 **Bases de Datos**
 
-<img src="https://skillicons.dev/icons?i=mariadb" />
+<img src="https://skillicons.dev/icons?i=mariadb,mongodb" />
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 
 ---
-
 ### GitHub 🐙
 
 <p align="center">
